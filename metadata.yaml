@@ -1,0 +1,25 @@
+_repo: The-Mystery-of-the-Deserted-Village_66341
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoppenstedt, Elbert M.
+    gutenberg_agent_id: '53757'
+    url: http://www.gutenberg.org/2009/agents/53757
+description: ''
+gutenberg_issued: '2021-09-19'
+identifiers:
+  gutenberg: '66341'
+language: en
+pgterms:marc905: 20190903170903hoppensted
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Sue Clark, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: United States :Franklin Watts,1960.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mystery of the Deserted Village
+url: http://www.gutenberg.org/ebooks/66341
